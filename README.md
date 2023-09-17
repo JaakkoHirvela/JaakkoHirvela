@@ -2,6 +2,4 @@
 
 This is my personal repository.
 
-Most relevant repositories for a possible employer:
-- https://github.com/JaakkoHirvela/School-projects
-- https://github.com/JaakkoHirvela/my_projects
+Check out for [epic-stuff](https://github.com/JaakkoHirvela/epic-stuff.git)

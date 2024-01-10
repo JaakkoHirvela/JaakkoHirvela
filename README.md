@@ -2,4 +2,4 @@
 
 This is my personal repository.
 
-Check out for [epic-stuff](https://github.com/JaakkoHirvela/epic-stuff.git)
+[Projects](https://github.com/JaakkoHirvela/portfolio.git)
